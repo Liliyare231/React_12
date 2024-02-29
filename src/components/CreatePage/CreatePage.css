@@ -1,0 +1,13 @@
+.form_block{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 100px;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+}
